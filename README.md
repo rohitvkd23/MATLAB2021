@@ -1,6 +1,6 @@
 # MATLAB2021
 
-$ code for integration
+$ code for addition
 
 a = 1:2;
 
